@@ -24,7 +24,7 @@
     "workbox-strategies": "^6.6.0",
     "workbox-streams": "^6.6.0"
   },
-  "homepage": "https://github.com/Akhpie/ecom-mobile-eep.git",
+  "homepage": "https://github.com/Akhpie/ecom-mobile-eep/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
