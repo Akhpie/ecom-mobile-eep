@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Akhpie/ecom-mobile-eep.git/static/css/main.4d5580d8.css",
+    "main.js": "/Akhpie/ecom-mobile-eep.git/static/js/main.81d27b72.js",
+    "static/js/453.7842ff29.chunk.js": "/Akhpie/ecom-mobile-eep.git/static/js/453.7842ff29.chunk.js",
+    "service-worker.js": "/Akhpie/ecom-mobile-eep.git/service-worker.js",
+    "index.html": "/Akhpie/ecom-mobile-eep.git/index.html",
+    "main.4d5580d8.css.map": "/Akhpie/ecom-mobile-eep.git/static/css/main.4d5580d8.css.map",
+    "main.81d27b72.js.map": "/Akhpie/ecom-mobile-eep.git/static/js/main.81d27b72.js.map",
+    "453.7842ff29.chunk.js.map": "/Akhpie/ecom-mobile-eep.git/static/js/453.7842ff29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d5580d8.css",
+    "static/js/main.81d27b72.js"
+  ]
+}
